@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Usman
+- 👋 Hey, Myself Usman
 - 👀 Who keeps keen interest in design
 - 🌱 Currently leaning towards Front-End
 <!-- - 💞️ I’m looking to collaborate on .. -->
