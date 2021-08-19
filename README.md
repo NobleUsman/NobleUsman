@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman
 - 👀 Who keeps keen interest in design
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently leaning towards Front-End
 <!-- - 💞️ I’m looking to collaborate on .. -->
 <!-- - 📫 How to reach me ... -->
 
