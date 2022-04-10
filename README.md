@@ -1,6 +1,7 @@
 - 👋 Hey, Myself Usman
 - 👀 Who keeps keen interest in design
-- 🌱 Currently leaning towards Front-End
+- 🌱 Started freelancing with Front-End and React-NodeJS projects
+- ⏳️ Currently working on Angular-Express-NodeJS stack with some side projects on React-TS-NodeJS
 <!-- - 💞️ I’m looking to collaborate on .. -->
 <!-- - 📫 How to reach me ... -->
 
